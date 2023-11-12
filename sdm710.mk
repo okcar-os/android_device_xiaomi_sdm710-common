@@ -190,6 +190,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.health@2.1.vendor
 
+PRODUCT_PACKAGES += \
+    android.hardware.health@2.1.vendor
+
 # HIDL
 PRODUCT_PACKAGES += \
     android.hidl.base@1.0 \
